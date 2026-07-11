@@ -1,0 +1,6 @@
+{
+  "name": "A1 Vision Worth",
+  "description": "Luxury Bespoke Furniture Catalog and Lookbook - Handcrafted pieces for modern living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
